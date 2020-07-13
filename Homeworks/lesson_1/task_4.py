@@ -6,4 +6,4 @@ while user_number > 0:
         max_number = user_number % 10
     user_number = user_number // 10
 max_number = str(max_number)
-print('Самая большая цифра в введонном числе ' + max_number)
+print('Самая большая цифра в введонном числе ', max_number)
